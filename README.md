@@ -2,7 +2,7 @@ Mad Men theme for Jekyll Bootstrap
 ==========================
 Inspired by [Dinky CSS](https://github.com/broccolini/dinky), I wrote Mad Men theme while camping on my couch watching it on Netflix:-)
 
-If you use [Jekyll](http://jekyllrb.com/) as your primary blog engine, you can install this theme by run the following command line:
+If you use [Jekyll](http://jekyllrb.com/) as your primary blog engine and [Jekyll Bootstrap](http://jekyllbootstrap.com/) as your deployment tool, you can install this theme by run the following command line:
 
 ````
 rake theme:install git="https://github.com/marshallshen/theme-madmen.git"
