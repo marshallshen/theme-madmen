@@ -10,8 +10,7 @@ rake theme:install git="https://github.com/marshallshen/theme-madmen.git"
 
 The visual demo of the theme:
 
-[![](mad_men_theme.jpg)](http://marshallshen.github.io)
-[![](mad_men_theme_part2.jpg)](http://marshallshen.github.io)
+[![](http://marshallshen.github.io/assets/themes/madmen/images/mad_men_theme_demo.jpg)](http://marshallshen.github.io)
 
 This package is under MIT license, it's free open source software.
 
